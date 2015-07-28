@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["H5F_ACC_CREAT",""],["H5F_ACC_DEBUG",""],["H5F_ACC_EXCL",""],["H5F_ACC_RDONLY",""],["H5F_ACC_RDWR",""],["H5F_ACC_TRUNC",""]],"fn":[["H5Fclose",""],["H5Fcreate",""],["H5Fopen",""]]});

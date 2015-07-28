@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["H5S_ALL",""],["H5S_UNLIMITED",""]],"enum":[["H5S_seloper_t",""]],"fn":[["H5Sclose",""],["H5Screate_simple",""],["H5Sselect_hyperslab",""],["H5Sset_extent_simple",""]]});
